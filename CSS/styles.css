@@ -1,0 +1,37 @@
+body {
+    background-color: #FFFBE9;
+    color: black;
+    font-family: 'Arial', Times, sans-serif;
+
+}
+
+hr {
+    border-color: #AD8B73;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1 {
+    color: #AD8B73;
+    text-align: center;
+}
+
+h3 {
+    color: #CEAB93;
+}
+
+.judo {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px
+}
+
+.hobbyList {
+    color: burlywood;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
